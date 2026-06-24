@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0189-rotate-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/aryan2609progress/DSA-Journey/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/aryan2609progress/DSA-Journey/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/aryan2609progress/DSA-Journey/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/aryan2609progress/DSA-Journey/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0268-missing-number) |
@@ -56,5 +58,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aryan2609progress/DSA-Journey/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/aryan2609progress/DSA-Journey/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aryan2609progress/DSA-Journey/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

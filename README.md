@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/aryan2609progress/DSA-Journey/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/aryan2609progress/DSA-Journey/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/aryan2609progress/DSA-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/aryan2609progress/DSA-Journey/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/aryan2609progress/DSA-Journey/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/aryan2609progress/DSA-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |

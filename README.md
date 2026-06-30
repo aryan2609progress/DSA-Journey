@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/aryan2609progress/DSA-Journey/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aryan2609progress/DSA-Journey/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/aryan2609progress/DSA-Journey/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/aryan2609progress/DSA-Journey/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aryan2609progress/DSA-Journey/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/aryan2609progress/DSA-Journey/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/aryan2609progress/DSA-Journey/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/aryan2609progress/DSA-Journey/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |

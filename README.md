@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/aryan2609progress/DSA-Journey/tree/master/0389-find-the-difference) |
+| [1189-maximum-number-of-balloons](https://github.com/aryan2609progress/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aryan2609progress/DSA-Journey/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/aryan2609progress/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 ## Interactive
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/aryan2609progress/DSA-Journey/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/aryan2609progress/DSA-Journey/tree/master/0389-find-the-difference) |
+| [1189-maximum-number-of-balloons](https://github.com/aryan2609progress/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 ## Linked List
 |  |
 | ------- |

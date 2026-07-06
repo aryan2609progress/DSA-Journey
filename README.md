@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/aryan2609progress/DSA-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0202-happy-number) |
+| [0344-reverse-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/0344-reverse-string) |
 ## Recursion
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aryan2609progress/DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/aryan2609progress/DSA-Journey/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/aryan2609progress/DSA-Journey/tree/master/0067-add-binary) |
+| [0344-reverse-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/aryan2609progress/DSA-Journey/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/aryan2609progress/DSA-Journey/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/aryan2609progress/DSA-Journey/tree/master/0504-base-7) |

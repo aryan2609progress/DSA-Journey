@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/aryan2609progress/DSA-Journey/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/aryan2609progress/DSA-Journey/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/0567-permutation-in-string) |
 | [0917-reverse-only-letters](https://github.com/aryan2609progress/DSA-Journey/tree/master/0917-reverse-only-letters) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/aryan2609progress/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/aryan2609progress/DSA-Journey/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/0434-number-of-segments-in-a-string) |
+| [0443-string-compression](https://github.com/aryan2609progress/DSA-Journey/tree/master/0443-string-compression) |
 | [0504-base-7](https://github.com/aryan2609progress/DSA-Journey/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/0567-permutation-in-string) |

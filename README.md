@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aryan2609progress/DSA-Journey/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/aryan2609progress/DSA-Journey/tree/master/1291-sequential-digits) |
 ## Dynamic Programming
 |  |
 | ------- |

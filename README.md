@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/0728-self-dividing-numbers) |
 | [1154-day-of-the-year](https://github.com/aryan2609progress/DSA-Journey/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/aryan2609progress/DSA-Journey/tree/master/1360-number-of-days-between-two-dates) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aryan2609progress/DSA-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |

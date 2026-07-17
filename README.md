@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/aryan2609progress/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/aryan2609progress/DSA-Journey/tree/master/0485-max-consecutive-ones) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/aryan2609progress/DSA-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/aryan2609progress/DSA-Journey/tree/master/0392-is-subsequence) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/aryan2609progress/DSA-Journey/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/aryan2609progress/DSA-Journey/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/aryan2609progress/DSA-Journey/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/aryan2609progress/DSA-Journey/tree/master/0441-arranging-coins) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/aryan2609progress/DSA-Journey/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/aryan2609progress/DSA-Journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/aryan2609progress/DSA-Journey/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/aryan2609progress/DSA-Journey/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/aryan2609progress/DSA-Journey/tree/master/0389-find-the-difference) |

@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/aryan2609progress/DSA-Journey/tree/master/1051-height-checker) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/aryan2609progress/DSA-Journey/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/aryan2609progress/DSA-Journey/tree/master/1260-shift-2d-grid) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryan2609progress/DSA-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/aryan2609progress/DSA-Journey/tree/master/0771-jewels-and-stones) |
 | [0997-find-the-town-judge](https://github.com/aryan2609progress/DSA-Journey/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/aryan2609progress/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1331-rank-transform-of-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/2094-finding-3-digit-even-numbers) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/aryan2609progress/DSA-Journey/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/aryan2609progress/DSA-Journey/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/aryan2609progress/DSA-Journey/tree/master/1260-shift-2d-grid) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1518-water-bottles](https://github.com/aryan2609progress/DSA-Journey/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/aryan2609progress/DSA-Journey/tree/master/1688-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aryan2609progress/DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/aryan2609progress/DSA-Journey/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/aryan2609progress/DSA-Journey/tree/master/1260-shift-2d-grid) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## Geometry
 |  |
 | ------- |

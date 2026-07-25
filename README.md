@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/aryan2609progress/DSA-Journey/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aryan2609progress/DSA-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aryan2609progress/DSA-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0812-largest-triangle-area](https://github.com/aryan2609progress/DSA-Journey/tree/master/0812-largest-triangle-area) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/aryan2609progress/DSA-Journey/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/0728-self-dividing-numbers) |
+| [0812-largest-triangle-area](https://github.com/aryan2609progress/DSA-Journey/tree/master/0812-largest-triangle-area) |
 | [1025-divisor-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/1025-divisor-game) |
 | [1154-day-of-the-year](https://github.com/aryan2609progress/DSA-Journey/tree/master/1154-day-of-the-year) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/aryan2609progress/DSA-Journey/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/aryan2609progress/DSA-Journey/tree/master/0812-largest-triangle-area) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/aryan2609progress/DSA-Journey/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Monotonic Stack
 |  |

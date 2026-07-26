@@ -2,36 +2,36 @@ class Solution {
 public:
     int maximumProduct(vector<int>& nums) {
 
-        int max1 = INT_MIN, max2 = INT_MIN, max3 = INT_MIN;
-        int min1 = INT_MAX, min2 = INT_MAX;
+        int mx1 = INT_MIN, mx2 = INT_MIN, mx3 = INT_MIN;
+        int mn1 = INT_MAX, mn2 = INT_MAX;
 
-        for (int num : nums) {
+        for (int x : nums) {
 
-            
-            if (num > max1) {
-                max3 = max2;
-                max2 = max1;
-                max1 = num;
+            // largest 3
+            if (x >= mx1) {
+                mx3 = mx2;
+                mx2 = mx1;
+                mx1 = x;
             }
-            else if (num > max2) {
-                max3 = max2;
-                max2 = num;
+            else if (x >= mx2) {
+                mx3 = mx2;
+                mx2 = x;
             }
-            else if (num > max3) {
-                max3 = num;
+            else if (x > mx3) {
+                mx3 = x;
             }
 
-           
-            if (num < min1) {
-                min2 = min1;
-                min1 = num;
+            // smallest 2
+            if (x <= mn1) {
+                mn2 = mn1;
+                mn1 = x;
             }
-            else if (num < min2) {
-                min2 = num;
+            else if (x < mn2) {
+                mn2 = x;
             }
         }
 
-        return max(max1 * max2 * max3,
-                   max1 * min1 * min2);
+        return max(mx1 * mx2 * mx3,
+                   mx1 * mn1 * mn2);
     }
 };

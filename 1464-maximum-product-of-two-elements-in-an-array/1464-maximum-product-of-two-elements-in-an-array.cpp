@@ -1,17 +1,16 @@
 class Solution {
 public:
-    int maxProduct(vector<int>& nums){
-        int first = INT_MIN;
-        int second = INT_MIN;
-        for(int val : nums){
-            if(val > first){
-                second = first;
-                first = val;
-            }
-            else if(val > second){
-                second = val;
-            }
+    int maxProduct(vector<int>& nums) {
+       int mx1=INT_MIN;
+       int mx2=INT_MIN;
+       for(int val : nums){
+        if(val>mx1){
+            mx2=mx1;
+            mx1=val;
         }
-        return (first-1)*(second-1);
+        else if(val>mx2)
+            mx2=val;
+       }
+        return  (mx1-1)*(mx2-1);
     }
 };

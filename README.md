@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/aryan2609progress/DSA-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aryan2609progress/DSA-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/aryan2609progress/DSA-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryan2609progress/DSA-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/aryan2609progress/DSA-Journey/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1903-largest-odd-number-in-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aryan2609progress/DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
 |  |
 | ------- |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/aryan2609progress/DSA-Journey/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Graph Theory
 |  |
 | ------- |

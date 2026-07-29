@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/aryan2609progress/DSA-Journey/tree/master/0989-add-to-array-form-of-integer) |
 | [0997-find-the-town-judge](https://github.com/aryan2609progress/DSA-Journey/tree/master/0997-find-the-town-judge) |
 | [1051-height-checker](https://github.com/aryan2609progress/DSA-Journey/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/1122-relative-sort-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/aryan2609progress/DSA-Journey/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/aryan2609progress/DSA-Journey/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/aryan2609progress/DSA-Journey/tree/master/1260-shift-2d-grid) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/aryan2609progress/DSA-Journey/tree/master/0771-jewels-and-stones) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aryan2609progress/DSA-Journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0997-find-the-town-judge](https://github.com/aryan2609progress/DSA-Journey/tree/master/0997-find-the-town-judge) |
+| [1122-relative-sort-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/aryan2609progress/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1331-rank-transform-of-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/1331-rank-transform-of-an-array) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aryan2609progress/DSA-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/aryan2609progress/DSA-Journey/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryan2609progress/DSA-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/aryan2609progress/DSA-Journey/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/aryan2609progress/DSA-Journey/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Graph Theory

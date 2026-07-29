@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aryan2609progress/DSA-Journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0941-valid-mountain-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/aryan2609progress/DSA-Journey/tree/master/0989-add-to-array-form-of-integer) |
 | [0997-find-the-town-judge](https://github.com/aryan2609progress/DSA-Journey/tree/master/0997-find-the-town-judge) |
 | [1051-height-checker](https://github.com/aryan2609progress/DSA-Journey/tree/master/1051-height-checker) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/aryan2609progress/DSA-Journey/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/aryan2609progress/DSA-Journey/tree/master/0812-largest-triangle-area) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aryan2609progress/DSA-Journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0989-add-to-array-form-of-integer](https://github.com/aryan2609progress/DSA-Journey/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/1025-divisor-game) |
 | [1154-day-of-the-year](https://github.com/aryan2609progress/DSA-Journey/tree/master/1154-day-of-the-year) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/aryan2609progress/DSA-Journey/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |

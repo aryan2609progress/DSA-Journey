@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/aryan2609progress/DSA-Journey/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/aryan2609progress/DSA-Journey/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0896-monotonic-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aryan2609progress/DSA-Journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0941-valid-mountain-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0941-valid-mountain-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/aryan2609progress/DSA-Journey/tree/master/0812-largest-triangle-area) |
+| [0877-stone-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aryan2609progress/DSA-Journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-add-to-array-form-of-integer](https://github.com/aryan2609progress/DSA-Journey/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/1025-divisor-game) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/aryan2609progress/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/aryan2609progress/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/aryan2609progress/DSA-Journey/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/1025-divisor-game) |
 ## Greedy
 |  |

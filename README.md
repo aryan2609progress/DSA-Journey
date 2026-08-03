@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/aryan2609progress/DSA-Journey/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aryan2609progress/DSA-Journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2418-sort-the-people](https://github.com/aryan2609progress/DSA-Journey/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/aryan2609progress/DSA-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/aryan2609progress/DSA-Journey/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aryan2609progress/DSA-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/2094-finding-3-digit-even-numbers) |
+| [2418-sort-the-people](https://github.com/aryan2609progress/DSA-Journey/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/aryan2609progress/DSA-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/aryan2609progress/DSA-Journey/tree/master/2540-minimum-common-value) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aryan2609progress/DSA-Journey/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/aryan2609progress/DSA-Journey/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aryan2609progress/DSA-Journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2418-sort-the-people](https://github.com/aryan2609progress/DSA-Journey/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/aryan2609progress/DSA-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aryan2609progress/DSA-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/aryan2609progress/DSA-Journey/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aryan2609progress/DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2418-sort-the-people](https://github.com/aryan2609progress/DSA-Journey/tree/master/2418-sort-the-people) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |

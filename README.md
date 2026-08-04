@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/aryan2609progress/DSA-Journey/tree/master/0905-sort-array-by-parity) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aryan2609progress/DSA-Journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0941-valid-mountain-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0941-valid-mountain-array) |
+| [0976-largest-perimeter-triangle](https://github.com/aryan2609progress/DSA-Journey/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/aryan2609progress/DSA-Journey/tree/master/0989-add-to-array-form-of-integer) |
 | [0997-find-the-town-judge](https://github.com/aryan2609progress/DSA-Journey/tree/master/0997-find-the-town-judge) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/aryan2609progress/DSA-Journey/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aryan2609progress/DSA-Journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0976-largest-perimeter-triangle](https://github.com/aryan2609progress/DSA-Journey/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/aryan2609progress/DSA-Journey/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/1025-divisor-game) |
 | [1154-day-of-the-year](https://github.com/aryan2609progress/DSA-Journey/tree/master/1154-day-of-the-year) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aryan2609progress/DSA-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/aryan2609progress/DSA-Journey/tree/master/0905-sort-array-by-parity) |
+| [0976-largest-perimeter-triangle](https://github.com/aryan2609progress/DSA-Journey/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/aryan2609progress/DSA-Journey/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/1122-relative-sort-array) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/aryan2609progress/DSA-Journey/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/aryan2609progress/DSA-Journey/tree/master/0860-lemonade-change) |
+| [0976-largest-perimeter-triangle](https://github.com/aryan2609progress/DSA-Journey/tree/master/0976-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryan2609progress/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/aryan2609progress/DSA-Journey/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/1323-maximum-69-number) |
@@ -583,4 +587,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/aryan2609progress/DSA-Journey/tree/master/1859-sorting-the-sentence) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/aryan2609progress/DSA-Journey/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/aryan2609progress/DSA-Journey/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->

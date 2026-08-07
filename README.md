@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/aryan2609progress/DSA-Journey/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/aryan2609progress/DSA-Journey/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/aryan2609progress/DSA-Journey/tree/master/2413-smallest-even-multiple) |
+| [2469-convert-the-temperature](https://github.com/aryan2609progress/DSA-Journey/tree/master/2469-convert-the-temperature) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3513-number-of-unique-xor-triplets-i) |

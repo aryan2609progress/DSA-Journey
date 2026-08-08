@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/aryan2609progress/DSA-Journey/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/aryan2609progress/DSA-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/aryan2609progress/DSA-Journey/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aryan2609progress/DSA-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/aryan2609progress/DSA-Journey/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aryan2609progress/DSA-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryan2609progress/DSA-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/aryan2609progress/DSA-Journey/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aryan2609progress/DSA-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/aryan2609progress/DSA-Journey/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aryan2609progress/DSA-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/aryan2609progress/DSA-Journey/tree/master/1399-count-largest-group) |
 | [1748-sum-of-unique-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/1748-sum-of-unique-elements) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aryan2609progress/DSA-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3046-split-the-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/3046-split-the-array) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |

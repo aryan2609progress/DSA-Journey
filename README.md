@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/aryan2609progress/DSA-Journey/tree/master/2540-minimum-common-value) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3046-split-the-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/3046-split-the-array) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3731-find-missing-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3046-split-the-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/3046-split-the-array) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Interactive
 |  |
 | ------- |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/aryan2609progress/DSA-Journey/tree/master/2418-sort-the-people) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
 |  |

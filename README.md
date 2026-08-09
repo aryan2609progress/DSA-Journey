@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/aryan2609progress/DSA-Journey/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/aryan2609progress/DSA-Journey/tree/master/2652-sum-multiples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/aryan2609progress/DSA-Journey/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/3099-harshad-number) |

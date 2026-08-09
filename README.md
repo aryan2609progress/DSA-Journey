@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aryan2609progress/DSA-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/aryan2609progress/DSA-Journey/tree/master/2540-minimum-common-value) |
+| [2549-count-distinct-numbers-on-board](https://github.com/aryan2609progress/DSA-Journey/tree/master/2549-count-distinct-numbers-on-board) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aryan2609progress/DSA-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3046-split-the-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/3046-split-the-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/aryan2609progress/DSA-Journey/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/aryan2609progress/DSA-Journey/tree/master/2544-alternating-digit-sum) |
+| [2549-count-distinct-numbers-on-board](https://github.com/aryan2609progress/DSA-Journey/tree/master/2549-count-distinct-numbers-on-board) |
 | [2652-sum-multiples](https://github.com/aryan2609progress/DSA-Journey/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/aryan2609progress/DSA-Journey/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/aryan2609progress/DSA-Journey/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/aryan2609progress/DSA-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/aryan2609progress/DSA-Journey/tree/master/2540-minimum-common-value) |
+| [2549-count-distinct-numbers-on-board](https://github.com/aryan2609progress/DSA-Journey/tree/master/2549-count-distinct-numbers-on-board) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3046-split-the-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/3046-split-the-array) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/aryan2609progress/DSA-Journey/tree/master/1688-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aryan2609progress/DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/aryan2609progress/DSA-Journey/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2549-count-distinct-numbers-on-board](https://github.com/aryan2609progress/DSA-Journey/tree/master/2549-count-distinct-numbers-on-board) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryan2609progress/DSA-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |

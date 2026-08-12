@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/3360-stone-removal-game) |
+| [3492-maximum-containers-on-a-ship](https://github.com/aryan2609progress/DSA-Journey/tree/master/3492-maximum-containers-on-a-ship) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/aryan2609progress/DSA-Journey/tree/master/3536-maximum-product-of-two-digits) |

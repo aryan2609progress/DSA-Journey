@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/aryan2609progress/DSA-Journey/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3731-find-missing-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/3745-maximize-expression-of-three-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryan2609progress/DSA-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/aryan2609progress/DSA-Journey/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/aryan2609progress/DSA-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/3745-maximize-expression-of-three-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryan2609progress/DSA-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/aryan2609progress/DSA-Journey/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3745-maximize-expression-of-three-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/3745-maximize-expression-of-three-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aryan2609progress/DSA-Journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3745-maximize-expression-of-three-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/3745-maximize-expression-of-three-elements) |
 ## String
 |  |
 | ------- |

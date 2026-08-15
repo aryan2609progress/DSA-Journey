@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/aryan2609progress/DSA-Journey/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/aryan2609progress/DSA-Journey/tree/master/0704-binary-search) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aryan2609progress/DSA-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Queue
 |  |

@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aryan2609progress/DSA-Journey/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aryan2609progress/DSA-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2029-stone-game-ix](https://github.com/aryan2609progress/DSA-Journey/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aryan2609progress/DSA-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/aryan2609progress/DSA-Journey/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/aryan2609progress/DSA-Journey/tree/master/2029-stone-game-ix) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aryan2609progress/DSA-Journey/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/aryan2609progress/DSA-Journey/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/aryan2609progress/DSA-Journey/tree/master/2235-add-two-integers) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/aryan2609progress/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1399-count-largest-group](https://github.com/aryan2609progress/DSA-Journey/tree/master/1399-count-largest-group) |
 | [1748-sum-of-unique-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/1748-sum-of-unique-elements) |
+| [2029-stone-game-ix](https://github.com/aryan2609progress/DSA-Journey/tree/master/2029-stone-game-ix) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aryan2609progress/DSA-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/aryan2609progress/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/1025-divisor-game) |
+| [2029-stone-game-ix](https://github.com/aryan2609progress/DSA-Journey/tree/master/2029-stone-game-ix) |
 ## Greedy
 |  |
 | ------- |
@@ -527,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/1323-maximum-69-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/aryan2609progress/DSA-Journey/tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/aryan2609progress/DSA-Journey/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aryan2609progress/DSA-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aryan2609progress/DSA-Journey/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aryan2609progress/DSA-Journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -697,4 +702,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aryan2609progress/DSA-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2427-number-of-common-factors](https://github.com/aryan2609progress/DSA-Journey/tree/master/2427-number-of-common-factors) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/aryan2609progress/DSA-Journey/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/aryan2609progress/DSA-Journey/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/aryan2609progress/DSA-Journey/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->

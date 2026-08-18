@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryan2609progress/DSA-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/1486-xor-operation-in-an-array) |
 | [2032-two-out-of-three](https://github.com/aryan2609progress/DSA-Journey/tree/master/2032-two-out-of-three) |
+| [2351-first-letter-to-appear-twice](https://github.com/aryan2609progress/DSA-Journey/tree/master/2351-first-letter-to-appear-twice) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aryan2609progress/DSA-Journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/aryan2609progress/DSA-Journey/tree/master/2032-two-out-of-three) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aryan2609progress/DSA-Journey/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2351-first-letter-to-appear-twice](https://github.com/aryan2609progress/DSA-Journey/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/aryan2609progress/DSA-Journey/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/aryan2609progress/DSA-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/aryan2609progress/DSA-Journey/tree/master/2540-minimum-common-value) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/aryan2609progress/DSA-Journey/tree/master/2029-stone-game-ix) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aryan2609progress/DSA-Journey/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2351-first-letter-to-appear-twice](https://github.com/aryan2609progress/DSA-Journey/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aryan2609progress/DSA-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3046-split-the-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/3046-split-the-array) |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aryan2609progress/DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/aryan2609progress/DSA-Journey/tree/master/2000-reverse-prefix-of-word) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aryan2609progress/DSA-Journey/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2351-first-letter-to-appear-twice](https://github.com/aryan2609progress/DSA-Journey/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/aryan2609progress/DSA-Journey/tree/master/2418-sort-the-people) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |

@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/aryan2609progress/DSA-Journey/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1051-height-checker](https://github.com/aryan2609progress/DSA-Journey/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/1122-relative-sort-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/aryan2609progress/DSA-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/aryan2609progress/DSA-Journey/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/aryan2609progress/DSA-Journey/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/aryan2609progress/DSA-Journey/tree/master/1260-shift-2d-grid) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aryan2609progress/DSA-Journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0997-find-the-town-judge](https://github.com/aryan2609progress/DSA-Journey/tree/master/0997-find-the-town-judge) |
 | [1122-relative-sort-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/1122-relative-sort-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/aryan2609progress/DSA-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/aryan2609progress/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1331-rank-transform-of-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/1331-rank-transform-of-an-array) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/aryan2609progress/DSA-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aryan2609progress/DSA-Journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/aryan2609progress/DSA-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/aryan2609progress/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1399-count-largest-group](https://github.com/aryan2609progress/DSA-Journey/tree/master/1399-count-largest-group) |
 | [1748-sum-of-unique-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/1748-sum-of-unique-elements) |
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/aryan2609progress/DSA-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryan2609progress/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1154-day-of-the-year](https://github.com/aryan2609progress/DSA-Journey/tree/master/1154-day-of-the-year) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/aryan2609progress/DSA-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/aryan2609progress/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1360-number-of-days-between-two-dates](https://github.com/aryan2609progress/DSA-Journey/tree/master/1360-number-of-days-between-two-dates) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/aryan2609progress/DSA-Journey/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |

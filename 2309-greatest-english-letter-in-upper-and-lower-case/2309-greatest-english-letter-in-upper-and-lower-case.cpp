@@ -1,17 +1,21 @@
 class Solution {
 public:
     string greatestLetter(string s) {
-        unordered_set<char> d(s.begin(), s.end());
-        string ans = "";
+        bool lower[26] = {};
+        bool upper[26] = {};
 
         for(char ch : s) {
-            if(islower(ch)) {
-                if(d.find(toupper(ch)) != d.end()) {
-                    ans = max(ans, string(1, toupper(ch)));
-                }
-            }
+            if(islower(ch))
+                lower[ch - 'a'] = true;
+            else
+                upper[ch - 'A'] = true;
         }
 
-        return ans;
+        for(int i = 25; i >= 0; i--) {
+            if(lower[i] && upper[i])
+                return string(1, 'A' + i);
+        }
+
+        return "";
     }
 };

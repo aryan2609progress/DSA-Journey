@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/aryan2609progress/DSA-Journey/tree/master/2032-two-out-of-three) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aryan2609progress/DSA-Journey/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/aryan2609progress/DSA-Journey/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/aryan2609progress/DSA-Journey/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/aryan2609progress/DSA-Journey/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/aryan2609progress/DSA-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/aryan2609progress/DSA-Journey/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/aryan2609progress/DSA-Journey/tree/master/1952-three-divisors) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/2094-finding-3-digit-even-numbers) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/aryan2609progress/DSA-Journey/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2427-number-of-common-factors](https://github.com/aryan2609progress/DSA-Journey/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aryan2609progress/DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/aryan2609progress/DSA-Journey/tree/master/2000-reverse-prefix-of-word) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aryan2609progress/DSA-Journey/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/aryan2609progress/DSA-Journey/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/aryan2609progress/DSA-Journey/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/aryan2609progress/DSA-Journey/tree/master/2418-sort-the-people) |
 | [2716-minimize-string-length](https://github.com/aryan2609progress/DSA-Journey/tree/master/2716-minimize-string-length) |

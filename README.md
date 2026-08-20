@@ -616,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/aryan2609progress/DSA-Journey/tree/master/1446-consecutive-characters) |
 | [1592-rearrange-spaces-between-words](https://github.com/aryan2609progress/DSA-Journey/tree/master/1592-rearrange-spaces-between-words) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aryan2609progress/DSA-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1694-reformat-phone-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/1694-reformat-phone-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/aryan2609progress/DSA-Journey/tree/master/1812-determine-color-of-a-chessboard-square) |

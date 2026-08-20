@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aryan2609progress/DSA-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aryan2609progress/DSA-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0812-largest-triangle-area](https://github.com/aryan2609progress/DSA-Journey/tree/master/0812-largest-triangle-area) |
+| [0821-shortest-distance-to-a-character](https://github.com/aryan2609progress/DSA-Journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/aryan2609progress/DSA-Journey/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/aryan2609progress/DSA-Journey/tree/master/0867-transpose-matrix) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0680-valid-palindrome-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/aryan2609progress/DSA-Journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/aryan2609progress/DSA-Journey/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/aryan2609progress/DSA-Journey/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/aryan2609progress/DSA-Journey/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/aryan2609progress/DSA-Journey/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/0796-rotate-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/aryan2609progress/DSA-Journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/aryan2609progress/DSA-Journey/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aryan2609progress/DSA-Journey/tree/master/1071-greatest-common-divisor-of-strings) |

@@ -652,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3856-trim-trailing-vowels](https://github.com/aryan2609progress/DSA-Journey/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/aryan2609progress/DSA-Journey/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/aryan2609progress/DSA-Journey/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/aryan2609progress/DSA-Journey/tree/master/3921-score-validator) |

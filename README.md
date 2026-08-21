@@ -644,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/aryan2609progress/DSA-Journey/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3931-check-adjacent-digit-differences](https://github.com/aryan2609progress/DSA-Journey/tree/master/3931-check-adjacent-digit-differences) |
 ## Linked List
 |  |
 | ------- |

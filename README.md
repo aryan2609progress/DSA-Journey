@@ -633,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/aryan2609progress/DSA-Journey/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/aryan2609progress/DSA-Journey/tree/master/1446-consecutive-characters) |
+| [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/aryan2609progress/DSA-Journey/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1592-rearrange-spaces-between-words](https://github.com/aryan2609progress/DSA-Journey/tree/master/1592-rearrange-spaces-between-words) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aryan2609progress/DSA-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1694-reformat-phone-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/1694-reformat-phone-number) |

@@ -656,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/aryan2609progress/DSA-Journey/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aryan2609progress/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2027-minimum-moves-to-convert-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/2027-minimum-moves-to-convert-string) |
+| [2047-number-of-valid-words-in-a-sentence](https://github.com/aryan2609progress/DSA-Journey/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2129-capitalize-the-title](https://github.com/aryan2609progress/DSA-Journey/tree/master/2129-capitalize-the-title) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aryan2609progress/DSA-Journey/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/aryan2609progress/DSA-Journey/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |

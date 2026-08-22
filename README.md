@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aryan2609progress/DSA-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aryan2609progress/DSA-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0812-largest-triangle-area](https://github.com/aryan2609progress/DSA-Journey/tree/master/0812-largest-triangle-area) |
+| [0819-most-common-word](https://github.com/aryan2609progress/DSA-Journey/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/aryan2609progress/DSA-Journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/aryan2609progress/DSA-Journey/tree/master/0860-lemonade-change) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/0567-permutation-in-string) |
 | [0697-degree-of-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/aryan2609progress/DSA-Journey/tree/master/0771-jewels-and-stones) |
+| [0819-most-common-word](https://github.com/aryan2609progress/DSA-Journey/tree/master/0819-most-common-word) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aryan2609progress/DSA-Journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0997-find-the-town-judge](https://github.com/aryan2609progress/DSA-Journey/tree/master/0997-find-the-town-judge) |
 | [1122-relative-sort-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/1122-relative-sort-array) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/aryan2609progress/DSA-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
+| [0819-most-common-word](https://github.com/aryan2609progress/DSA-Journey/tree/master/0819-most-common-word) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aryan2609progress/DSA-Journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/aryan2609progress/DSA-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/aryan2609progress/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
@@ -615,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/aryan2609progress/DSA-Journey/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/aryan2609progress/DSA-Journey/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/0796-rotate-string) |
+| [0819-most-common-word](https://github.com/aryan2609progress/DSA-Journey/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/aryan2609progress/DSA-Journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/aryan2609progress/DSA-Journey/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |

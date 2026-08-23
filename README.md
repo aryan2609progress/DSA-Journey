@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/aryan2609progress/DSA-Journey/tree/master/1710-maximum-units-on-a-truck) |
 | [1748-sum-of-unique-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aryan2609progress/DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1816-truncate-sentence](https://github.com/aryan2609progress/DSA-Journey/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/aryan2609progress/DSA-Journey/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aryan2609progress/DSA-Journey/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/aryan2609progress/DSA-Journey/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1816-truncate-sentence](https://github.com/aryan2609progress/DSA-Journey/tree/master/1816-truncate-sentence) |
 | [1844-replace-all-digits-with-characters](https://github.com/aryan2609progress/DSA-Journey/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/aryan2609progress/DSA-Journey/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aryan2609progress/DSA-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |

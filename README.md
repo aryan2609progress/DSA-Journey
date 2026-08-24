@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/aryan2609progress/DSA-Journey/tree/master/0812-largest-triangle-area) |
 | [0866-prime-palindrome](https://github.com/aryan2609progress/DSA-Journey/tree/master/0866-prime-palindrome) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/aryan2609progress/DSA-Journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/aryan2609progress/DSA-Journey/tree/master/0905-sort-array-by-parity) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/aryan2609progress/DSA-Journey/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/aryan2609progress/DSA-Journey/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/aryan2609progress/DSA-Journey/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aryan2609progress/DSA-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |

@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/aryan2609progress/DSA-Journey/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aryan2609progress/DSA-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/aryan2609progress/DSA-Journey/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/aryan2609progress/DSA-Journey/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryan2609progress/DSA-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/aryan2609progress/DSA-Journey/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3360-stone-removal-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/3360-stone-removal-game) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/aryan2609progress/DSA-Journey/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3813-vowel-consonant-score](https://github.com/aryan2609progress/DSA-Journey/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryan2609progress/DSA-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/aryan2609progress/DSA-Journey/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/aryan2609progress/DSA-Journey/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/aryan2609progress/DSA-Journey/tree/master/3794-reverse-string-prefix) |
 | [3813-vowel-consonant-score](https://github.com/aryan2609progress/DSA-Journey/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |

@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/aryan2609progress/DSA-Journey/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryan2609progress/DSA-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1768-merge-strings-alternately](https://github.com/aryan2609progress/DSA-Journey/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/aryan2609progress/DSA-Journey/tree/master/2000-reverse-prefix-of-word) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/aryan2609progress/DSA-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/aryan2609progress/DSA-Journey/tree/master/2540-minimum-common-value) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1592-rearrange-spaces-between-words](https://github.com/aryan2609progress/DSA-Journey/tree/master/1592-rearrange-spaces-between-words) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aryan2609progress/DSA-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1694-reformat-phone-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/1694-reformat-phone-number) |
+| [1768-merge-strings-alternately](https://github.com/aryan2609progress/DSA-Journey/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/aryan2609progress/DSA-Journey/tree/master/1812-determine-color-of-a-chessboard-square) |

@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/aryan2609progress/DSA-Journey/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aryan2609progress/DSA-Journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0941-valid-mountain-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0941-valid-mountain-array) |
 | [0976-largest-perimeter-triangle](https://github.com/aryan2609progress/DSA-Journey/tree/master/0976-largest-perimeter-triangle) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aryan2609progress/DSA-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/aryan2609progress/DSA-Journey/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/aryan2609progress/DSA-Journey/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/aryan2609progress/DSA-Journey/tree/master/1051-height-checker) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/aryan2609progress/DSA-Journey/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0372-super-pow](https://github.com/aryan2609progress/DSA-Journey/tree/master/0372-super-pow) |
+| [0912-sort-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -743,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0264-ugly-number-ii) |
 | [0506-relative-ranks](https://github.com/aryan2609progress/DSA-Journey/tree/master/0506-relative-ranks) |
+| [0912-sort-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aryan2609progress/DSA-Journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Sliding Window
@@ -794,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/aryan2609progress/DSA-Journey/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/aryan2609progress/DSA-Journey/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -858,4 +863,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/aryan2609progress/DSA-Journey/tree/master/0357-count-numbers-with-unique-digits) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->

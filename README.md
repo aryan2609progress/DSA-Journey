@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/aryan2609progress/DSA-Journey/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/aryan2609progress/DSA-Journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1833-maximum-ice-cream-bars](https://github.com/aryan2609progress/DSA-Journey/tree/master/1833-maximum-ice-cream-bars) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/aryan2609progress/DSA-Journey/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aryan2609progress/DSA-Journey/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aryan2609progress/DSA-Journey/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/aryan2609progress/DSA-Journey/tree/master/1710-maximum-units-on-a-truck) |
+| [1833-maximum-ice-cream-bars](https://github.com/aryan2609progress/DSA-Journey/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/aryan2609progress/DSA-Journey/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aryan2609progress/DSA-Journey/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aryan2609progress/DSA-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/1323-maximum-69-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/aryan2609progress/DSA-Journey/tree/master/1710-maximum-units-on-a-truck) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/aryan2609progress/DSA-Journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1833-maximum-ice-cream-bars](https://github.com/aryan2609progress/DSA-Journey/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [2027-minimum-moves-to-convert-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/2027-minimum-moves-to-convert-string) |
 | [2029-stone-game-ix](https://github.com/aryan2609progress/DSA-Journey/tree/master/2029-stone-game-ix) |
@@ -802,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/aryan2609progress/DSA-Journey/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/aryan2609progress/DSA-Journey/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Graph Theory
 |  |

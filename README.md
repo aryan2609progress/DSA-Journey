@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/aryan2609progress/DSA-Journey/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1646-get-maximum-in-generated-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/1646-get-maximum-in-generated-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aryan2609progress/DSA-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/aryan2609progress/DSA-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1710-maximum-units-on-a-truck](https://github.com/aryan2609progress/DSA-Journey/tree/master/1710-maximum-units-on-a-truck) |
 | [1748-sum-of-unique-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aryan2609progress/DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/aryan2609progress/DSA-Journey/tree/master/0476-number-complement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryan2609progress/DSA-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/1486-xor-operation-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/aryan2609progress/DSA-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2032-two-out-of-three](https://github.com/aryan2609progress/DSA-Journey/tree/master/2032-two-out-of-three) |
 | [2351-first-letter-to-appear-twice](https://github.com/aryan2609progress/DSA-Journey/tree/master/2351-first-letter-to-appear-twice) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/aryan2609progress/DSA-Journey/tree/master/1399-count-largest-group) |
 | [1436-destination-city](https://github.com/aryan2609progress/DSA-Journey/tree/master/1436-destination-city) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aryan2609progress/DSA-Journey/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/aryan2609progress/DSA-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/1805-number-of-different-integers-in-a-string) |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/aryan2609progress/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/aryan2609progress/DSA-Journey/tree/master/1399-count-largest-group) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/aryan2609progress/DSA-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aryan2609progress/DSA-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aryan2609progress/DSA-Journey/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -709,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/aryan2609progress/DSA-Journey/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1592-rearrange-spaces-between-words](https://github.com/aryan2609progress/DSA-Journey/tree/master/1592-rearrange-spaces-between-words) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aryan2609progress/DSA-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/aryan2609progress/DSA-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1694-reformat-phone-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/1694-reformat-phone-number) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/aryan2609progress/DSA-Journey/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1768-merge-strings-alternately](https://github.com/aryan2609progress/DSA-Journey/tree/master/1768-merge-strings-alternately) |

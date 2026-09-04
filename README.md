@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/aryan2609progress/DSA-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/aryan2609progress/DSA-Journey/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aryan2609progress/DSA-Journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryan2609progress/DSA-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/aryan2609progress/DSA-Journey/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/aryan2609progress/DSA-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/aryan2609progress/DSA-Journey/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aryan2609progress/DSA-Journey/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/aryan2609progress/DSA-Journey/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/aryan2609progress/DSA-Journey/tree/master/2351-first-letter-to-appear-twice) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryan2609progress/DSA-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/aryan2609progress/DSA-Journey/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/aryan2609progress/DSA-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/aryan2609progress/DSA-Journey/tree/master/2540-minimum-common-value) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/aryan2609progress/DSA-Journey/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/aryan2609progress/DSA-Journey/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aryan2609progress/DSA-Journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryan2609progress/DSA-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/aryan2609progress/DSA-Journey/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/aryan2609progress/DSA-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2706-buy-two-chocolates](https://github.com/aryan2609progress/DSA-Journey/tree/master/2706-buy-two-chocolates) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aryan2609progress/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aryan2609progress/DSA-Journey/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/aryan2609progress/DSA-Journey/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryan2609progress/DSA-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2549-count-distinct-numbers-on-board](https://github.com/aryan2609progress/DSA-Journey/tree/master/2549-count-distinct-numbers-on-board) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/aryan2609progress/DSA-Journey/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
@@ -658,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aryan2609progress/DSA-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aryan2609progress/DSA-Journey/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aryan2609progress/DSA-Journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryan2609progress/DSA-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2706-buy-two-chocolates](https://github.com/aryan2609progress/DSA-Journey/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -775,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aryan2609progress/DSA-Journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryan2609progress/DSA-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Sliding Window
 |  |
 | ------- |

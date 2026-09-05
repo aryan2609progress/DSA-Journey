@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/aryan2609progress/DSA-Journey/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/aryan2609progress/DSA-Journey/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/aryan2609progress/DSA-Journey/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/aryan2609progress/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/0496-next-greater-element-i) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/aryan2609progress/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/aryan2609progress/DSA-Journey/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/aryan2609progress/DSA-Journey/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/aryan2609progress/DSA-Journey/tree/master/0475-heaters) |
 | [0541-reverse-string-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/aryan2609progress/DSA-Journey/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/aryan2609progress/DSA-Journey/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/aryan2609progress/DSA-Journey/tree/master/0441-arranging-coins) |
+| [0475-heaters](https://github.com/aryan2609progress/DSA-Journey/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/aryan2609progress/DSA-Journey/tree/master/0704-binary-search) |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/aryan2609progress/DSA-Journey/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/aryan2609progress/DSA-Journey/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/aryan2609progress/DSA-Journey/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/aryan2609progress/DSA-Journey/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |

@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/aryan2609progress/DSA-Journey/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/aryan2609progress/DSA-Journey/tree/master/0819-most-common-word) |
+| [0859-buddy-strings](https://github.com/aryan2609progress/DSA-Journey/tree/master/0859-buddy-strings) |
 | [0888-fair-candy-swap](https://github.com/aryan2609progress/DSA-Journey/tree/master/0888-fair-candy-swap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aryan2609progress/DSA-Journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0997-find-the-town-judge](https://github.com/aryan2609progress/DSA-Journey/tree/master/0997-find-the-town-judge) |
@@ -716,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/aryan2609progress/DSA-Journey/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/aryan2609progress/DSA-Journey/tree/master/0821-shortest-distance-to-a-character) |
+| [0859-buddy-strings](https://github.com/aryan2609progress/DSA-Journey/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/aryan2609progress/DSA-Journey/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aryan2609progress/DSA-Journey/tree/master/1071-greatest-common-divisor-of-strings) |

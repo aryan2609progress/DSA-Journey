@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/aryan2609progress/DSA-Journey/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/aryan2609progress/DSA-Journey/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/0496-next-greater-element-i) |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/aryan2609progress/DSA-Journey/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/aryan2609progress/DSA-Journey/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/0434-number-of-segments-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/aryan2609progress/DSA-Journey/tree/master/0443-string-compression) |
 | [0504-base-7](https://github.com/aryan2609progress/DSA-Journey/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0541-reverse-string-ii) |
@@ -804,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aryan2609progress/DSA-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |

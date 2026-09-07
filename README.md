@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/aryan2609progress/DSA-Journey/tree/master/0204-count-primes) |
+| [0227-basic-calculator-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/aryan2609progress/DSA-Journey/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/aryan2609progress/DSA-Journey/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0263-ugly-number) |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/aryan2609progress/DSA-Journey/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0179-largest-number) |
+| [0227-basic-calculator-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/aryan2609progress/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
@@ -820,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |

@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3046-split-the-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/3046-split-the-array) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/aryan2609progress/DSA-Journey/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/aryan2609progress/DSA-Journey/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3668-restore-finishing-order](https://github.com/aryan2609progress/DSA-Journey/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryan2609progress/DSA-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3046-split-the-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/3046-split-the-array) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/aryan2609progress/DSA-Journey/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/aryan2609progress/DSA-Journey/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Interactive
 |  |
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/aryan2609progress/DSA-Journey/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/aryan2609progress/DSA-Journey/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/aryan2609progress/DSA-Journey/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/aryan2609progress/DSA-Journey/tree/master/3794-reverse-string-prefix) |
 | [3813-vowel-consonant-score](https://github.com/aryan2609progress/DSA-Journey/tree/master/3813-vowel-consonant-score) |

@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/0633-sum-of-square-numbers) |
+| [0640-solve-the-equation](https://github.com/aryan2609progress/DSA-Journey/tree/master/0640-solve-the-equation) |
 | [0728-self-dividing-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/aryan2609progress/DSA-Journey/tree/master/0812-largest-triangle-area) |
 | [0866-prime-palindrome](https://github.com/aryan2609progress/DSA-Journey/tree/master/0866-prime-palindrome) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/aryan2609progress/DSA-Journey/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/aryan2609progress/DSA-Journey/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/aryan2609progress/DSA-Journey/tree/master/0415-add-strings) |
+| [0640-solve-the-equation](https://github.com/aryan2609progress/DSA-Journey/tree/master/0640-solve-the-equation) |
 | [0657-robot-return-to-origin](https://github.com/aryan2609progress/DSA-Journey/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/aryan2609progress/DSA-Journey/tree/master/0867-transpose-matrix) |
@@ -738,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/0567-permutation-in-string) |
+| [0640-solve-the-equation](https://github.com/aryan2609progress/DSA-Journey/tree/master/0640-solve-the-equation) |
 | [0657-robot-return-to-origin](https://github.com/aryan2609progress/DSA-Journey/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/aryan2609progress/DSA-Journey/tree/master/0709-to-lower-case) |
@@ -969,4 +972,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aryan2609progress/DSA-Journey/tree/master/0014-longest-common-prefix) |
+## Linear Algebra
+|  |
+| ------- |
+| [0640-solve-the-equation](https://github.com/aryan2609progress/DSA-Journey/tree/master/0640-solve-the-equation) |
 <!---LeetCode Topics End-->

@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0640-solve-the-equation](https://github.com/aryan2609progress/DSA-Journey/tree/master/0640-solve-the-equation) |
 | [0728-self-dividing-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/aryan2609progress/DSA-Journey/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/aryan2609progress/DSA-Journey/tree/master/0836-rectangle-overlap) |
 | [0866-prime-palindrome](https://github.com/aryan2609progress/DSA-Journey/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aryan2609progress/DSA-Journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -875,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/aryan2609progress/DSA-Journey/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/aryan2609progress/DSA-Journey/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/aryan2609progress/DSA-Journey/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Monotonic Stack
 |  |

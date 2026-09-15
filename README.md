@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/aryan2609progress/DSA-Journey/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aryan2609progress/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0229-majority-element-ii) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aryan2609progress/DSA-Journey/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aryan2609progress/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aryan2609progress/DSA-Journey/tree/master/0242-valid-anagram) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/aryan2609progress/DSA-Journey/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/aryan2609progress/DSA-Journey/tree/master/0190-reverse-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0372-super-pow](https://github.com/aryan2609progress/DSA-Journey/tree/master/0372-super-pow) |
 | [0912-sort-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0912-sort-an-array) |
@@ -830,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0264-ugly-number-ii) |
 | [0506-relative-ranks](https://github.com/aryan2609progress/DSA-Journey/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0912-sort-an-array) |
@@ -986,4 +990,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0640-solve-the-equation](https://github.com/aryan2609progress/DSA-Journey/tree/master/0640-solve-the-equation) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->

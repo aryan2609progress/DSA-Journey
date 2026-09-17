@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/aryan2609progress/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/aryan2609progress/DSA-Journey/tree/master/0506-relative-ranks) |
+| [0525-contiguous-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/aryan2609progress/DSA-Journey/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/aryan2609progress/DSA-Journey/tree/master/0624-maximum-distance-in-arrays) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/0567-permutation-in-string) |
 | [0697-degree-of-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/aryan2609progress/DSA-Journey/tree/master/0771-jewels-and-stones) |
@@ -916,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/aryan2609progress/DSA-Journey/tree/master/0724-find-pivot-index) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/aryan2609progress/DSA-Journey/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |

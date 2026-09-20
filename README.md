@@ -580,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/aryan2609progress/DSA-Journey/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3360-stone-removal-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/3360-stone-removal-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3477-fruits-into-baskets-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/aryan2609progress/DSA-Journey/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3813-vowel-consonant-score](https://github.com/aryan2609progress/DSA-Journey/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -822,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/3110-score-of-a-string) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/aryan2609progress/DSA-Journey/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aryan2609progress/DSA-Journey/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/aryan2609progress/DSA-Journey/tree/master/3775-reverse-words-with-same-vowel-count) |

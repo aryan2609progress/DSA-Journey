@@ -1,14 +1,20 @@
 class Solution {
 public:
-    int findMin(vector<int>& arr) {
-        int left=0,right=arr.size() -1;
-        while(left<right){
-            int mid = left + (right-left)/2;
-            if(arr[mid]>arr[right])
-                left=mid+1;
-            else
-                right =mid;
+    int findMin(vector<int>& nums) {
+        int low = 0;
+        int high = nums.size() - 1;
+
+        while (low < high) {
+            int mid = low + (high - low) / 2;
+
+            if (nums[mid] > nums[high]) {
+                low = mid + 1;
+            }
+            else {
+                high = mid;
+            }
         }
-        return arr[left];
+
+        return nums[low];
     }
 };

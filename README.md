@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/aryan2609progress/DSA-Journey/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aryan2609progress/DSA-Journey/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/aryan2609progress/DSA-Journey/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/aryan2609progress/DSA-Journey/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/aryan2609progress/DSA-Journey/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/aryan2609progress/DSA-Journey/tree/master/0371-sum-of-two-integers) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aryan2609progress/DSA-Journey/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0264-ugly-number-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0264-ugly-number-ii) |
+| [0343-integer-break](https://github.com/aryan2609progress/DSA-Journey/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/aryan2609progress/DSA-Journey/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/aryan2609progress/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/aryan2609progress/DSA-Journey/tree/master/0486-predict-the-winner) |

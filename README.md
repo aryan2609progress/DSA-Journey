@@ -641,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aryan2609progress/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/aryan2609progress/DSA-Journey/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -759,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/aryan2609progress/DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/aryan2609progress/DSA-Journey/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/aryan2609progress/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/aryan2609progress/DSA-Journey/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/aryan2609progress/DSA-Journey/tree/master/0049-group-anagrams) |
@@ -1014,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/aryan2609progress/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0047-permutations-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/aryan2609progress/DSA-Journey/tree/master/0357-count-numbers-with-unique-digits) |
 ## Merge Sort
@@ -1064,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aryan2609progress/DSA-Journey/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/aryan2609progress/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryan2609progress/DSA-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryan2609progress/DSA-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

@@ -797,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/aryan2609progress/DSA-Journey/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/aryan2609progress/DSA-Journey/tree/master/0821-shortest-distance-to-a-character) |
+| [0856-score-of-parentheses](https://github.com/aryan2609progress/DSA-Journey/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/aryan2609progress/DSA-Journey/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/aryan2609progress/DSA-Journey/tree/master/0917-reverse-only-letters) |
 | [0940-distinct-subsequences-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0940-distinct-subsequences-ii) |
@@ -908,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/aryan2609progress/DSA-Journey/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/0682-baseball-game) |
+| [0856-score-of-parentheses](https://github.com/aryan2609progress/DSA-Journey/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryan2609progress/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryan2609progress/DSA-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1072,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aryan2609progress/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aryan2609progress/DSA-Journey/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/aryan2609progress/DSA-Journey/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryan2609progress/DSA-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryan2609progress/DSA-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Breadth-First Search

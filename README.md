@@ -803,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/aryan2609progress/DSA-Journey/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aryan2609progress/DSA-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/aryan2609progress/DSA-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aryan2609progress/DSA-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryan2609progress/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -915,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/aryan2609progress/DSA-Journey/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aryan2609progress/DSA-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/aryan2609progress/DSA-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryan2609progress/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryan2609progress/DSA-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1090,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aryan2609progress/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/aryan2609progress/DSA-Journey/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aryan2609progress/DSA-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/aryan2609progress/DSA-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryan2609progress/DSA-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryan2609progress/DSA-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Breadth-First Search

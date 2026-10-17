@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/aryan2609progress/DSA-Journey/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/aryan2609progress/DSA-Journey/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/aryan2609progress/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aryan2609progress/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/aryan2609progress/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/aryan2609progress/DSA-Journey/tree/master/0075-sort-colors) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aryan2609progress/DSA-Journey/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/aryan2609progress/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/aryan2609progress/DSA-Journey/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aryan2609progress/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/aryan2609progress/DSA-Journey/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/aryan2609progress/DSA-Journey/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |

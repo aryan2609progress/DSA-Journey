@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aryan2609progress/DSA-Journey/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/aryan2609progress/DSA-Journey/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/aryan2609progress/DSA-Journey/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/aryan2609progress/DSA-Journey/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/aryan2609progress/DSA-Journey/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/aryan2609progress/DSA-Journey/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/aryan2609progress/DSA-Journey/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -869,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aryan2609progress/DSA-Journey/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/aryan2609progress/DSA-Journey/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/aryan2609progress/DSA-Journey/tree/master/2351-first-letter-to-appear-twice) |
+| [2409-count-days-spent-together](https://github.com/aryan2609progress/DSA-Journey/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/aryan2609progress/DSA-Journey/tree/master/2418-sort-the-people) |
 | [2716-minimize-string-length](https://github.com/aryan2609progress/DSA-Journey/tree/master/2716-minimize-string-length) |
 | [2864-maximum-odd-binary-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/2864-maximum-odd-binary-number) |

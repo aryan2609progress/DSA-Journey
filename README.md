@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/aryan2609progress/DSA-Journey/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/aryan2609progress/DSA-Journey/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/aryan2609progress/DSA-Journey/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/aryan2609progress/DSA-Journey/tree/master/0486-predict-the-winner) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/aryan2609progress/DSA-Journey/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/aryan2609progress/DSA-Journey/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/aryan2609progress/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/aryan2609progress/DSA-Journey/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/aryan2609progress/DSA-Journey/tree/master/0504-base-7) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/aryan2609progress/DSA-Journey/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/aryan2609progress/DSA-Journey/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/aryan2609progress/DSA-Journey/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/aryan2609progress/DSA-Journey/tree/master/0561-array-partition) |

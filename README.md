@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/aryan2609progress/DSA-Journey/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1254-number-of-closed-islands](https://github.com/aryan2609progress/DSA-Journey/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/aryan2609progress/DSA-Journey/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/aryan2609progress/DSA-Journey/tree/master/1267-count-servers-that-communicate) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryan2609progress/DSA-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/1331-rank-transform-of-an-array) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aryan2609progress/DSA-Journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/aryan2609progress/DSA-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/aryan2609progress/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/aryan2609progress/DSA-Journey/tree/master/1267-count-servers-that-communicate) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/aryan2609progress/DSA-Journey/tree/master/1399-count-largest-group) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aryan2609progress/DSA-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -975,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/aryan2609progress/DSA-Journey/tree/master/0867-transpose-matrix) |
 | [1254-number-of-closed-islands](https://github.com/aryan2609progress/DSA-Journey/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/aryan2609progress/DSA-Journey/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/aryan2609progress/DSA-Journey/tree/master/1267-count-servers-that-communicate) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## Geometry
 |  |
@@ -1128,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/aryan2609progress/DSA-Journey/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/aryan2609progress/DSA-Journey/tree/master/0617-merge-two-binary-trees) |
 | [1254-number-of-closed-islands](https://github.com/aryan2609progress/DSA-Journey/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aryan2609progress/DSA-Journey/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1161,6 +1165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/aryan2609progress/DSA-Journey/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/aryan2609progress/DSA-Journey/tree/master/0617-merge-two-binary-trees) |
 | [1254-number-of-closed-islands](https://github.com/aryan2609progress/DSA-Journey/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aryan2609progress/DSA-Journey/tree/master/1267-count-servers-that-communicate) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1177,4 +1182,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/aryan2609progress/DSA-Journey/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aryan2609progress/DSA-Journey/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->

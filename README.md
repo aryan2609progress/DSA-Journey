@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/aryan2609progress/DSA-Journey/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/aryan2609progress/DSA-Journey/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aryan2609progress/DSA-Journey/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/aryan2609progress/DSA-Journey/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/aryan2609progress/DSA-Journey/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/aryan2609progress/DSA-Journey/tree/master/0172-factorial-trailing-zeroes) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aryan2609progress/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/aryan2609progress/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/aryan2609progress/DSA-Journey/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/aryan2609progress/DSA-Journey/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aryan2609progress/DSA-Journey/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -1108,6 +1110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryan2609progress/DSA-Journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/aryan2609progress/DSA-Journey/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/aryan2609progress/DSA-Journey/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/aryan2609progress/DSA-Journey/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/aryan2609progress/DSA-Journey/tree/master/0112-path-sum) |
@@ -1136,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryan2609progress/DSA-Journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/aryan2609progress/DSA-Journey/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/aryan2609progress/DSA-Journey/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/aryan2609progress/DSA-Journey/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/aryan2609progress/DSA-Journey/tree/master/0112-path-sum) |
@@ -1169,6 +1173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/aryan2609progress/DSA-Journey/tree/master/0096-unique-binary-search-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aryan2609progress/DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Indexed Tree
 |  |

@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/aryan2609progress/DSA-Journey/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aryan2609progress/DSA-Journey/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3668-restore-finishing-order](https://github.com/aryan2609progress/DSA-Journey/tree/master/3668-restore-finishing-order) |
+| [3693-climbing-stairs-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aryan2609progress/DSA-Journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryan2609progress/DSA-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aryan2609progress/DSA-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/1025-divisor-game) |
 | [3524-find-x-value-of-array-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3524-find-x-value-of-array-i) |
+| [3693-climbing-stairs-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
 |  |
 | ------- |

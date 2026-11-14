@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aryan2609progress/DSA-Journey/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aryan2609progress/DSA-Journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3364-minimum-positive-sum-subarray](https://github.com/aryan2609progress/DSA-Journey/tree/master/3364-minimum-positive-sum-subarray) |
 | [3477-fruits-into-baskets-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -947,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryan2609progress/DSA-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aryan2609progress/DSA-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aryan2609progress/DSA-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3364-minimum-positive-sum-subarray](https://github.com/aryan2609progress/DSA-Journey/tree/master/3364-minimum-positive-sum-subarray) |
 ## Queue
 |  |
 | ------- |
@@ -1026,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryan2609progress/DSA-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/aryan2609progress/DSA-Journey/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [3364-minimum-positive-sum-subarray](https://github.com/aryan2609progress/DSA-Journey/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3904-smallest-stable-index-ii) |
 ## Bubble Sort

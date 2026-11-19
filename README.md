@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/aryan2609progress/DSA-Journey/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/aryan2609progress/DSA-Journey/tree/master/2549-count-distinct-numbers-on-board) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/aryan2609progress/DSA-Journey/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aryan2609progress/DSA-Journey/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryan2609progress/DSA-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/aryan2609progress/DSA-Journey/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/aryan2609progress/DSA-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/aryan2609progress/DSA-Journey/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/aryan2609progress/DSA-Journey/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aryan2609progress/DSA-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -792,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aryan2609progress/DSA-Journey/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aryan2609progress/DSA-Journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryan2609progress/DSA-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/aryan2609progress/DSA-Journey/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |

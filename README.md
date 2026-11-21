@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/aryan2609progress/DSA-Journey/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1528-shuffle-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/aryan2609progress/DSA-Journey/tree/master/1539-kth-missing-positive-number) |
+| [1550-three-consecutive-odds](https://github.com/aryan2609progress/DSA-Journey/tree/master/1550-three-consecutive-odds) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/aryan2609progress/DSA-Journey/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aryan2609progress/DSA-Journey/tree/master/1636-sort-array-by-increasing-frequency) |

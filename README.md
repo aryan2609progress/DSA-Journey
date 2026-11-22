@@ -896,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2027-minimum-moves-to-convert-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/2027-minimum-moves-to-convert-string) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/aryan2609progress/DSA-Journey/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/aryan2609progress/DSA-Journey/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/aryan2609progress/DSA-Journey/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/aryan2609progress/DSA-Journey/tree/master/2129-capitalize-the-title) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/aryan2609progress/DSA-Journey/tree/master/2273-find-resultant-array-after-removing-anagrams) |

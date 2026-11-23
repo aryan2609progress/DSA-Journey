@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryan2609progress/DSA-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/aryan2609progress/DSA-Journey/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3904-smallest-stable-index-ii) |
 | [3921-score-validator](https://github.com/aryan2609progress/DSA-Journey/tree/master/3921-score-validator) |
@@ -1001,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/aryan2609progress/DSA-Journey/tree/master/1267-count-servers-that-communicate) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aryan2609progress/DSA-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/aryan2609progress/DSA-Journey/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Geometry
 |  |
 | ------- |
@@ -1030,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0997-find-the-town-judge](https://github.com/aryan2609progress/DSA-Journey/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/aryan2609progress/DSA-Journey/tree/master/1791-find-center-of-star-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/aryan2609progress/DSA-Journey/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Prefix Sum
 |  |
 | ------- |

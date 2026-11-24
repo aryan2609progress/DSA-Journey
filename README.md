@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aryan2609progress/DSA-Journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aryan2609progress/DSA-Journey/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aryan2609progress/DSA-Journey/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3477-fruits-into-baskets-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aryan2609progress/DSA-Journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/3360-stone-removal-game) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aryan2609progress/DSA-Journey/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3492-maximum-containers-on-a-ship](https://github.com/aryan2609progress/DSA-Journey/tree/master/3492-maximum-containers-on-a-ship) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryan2609progress/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/aryan2609progress/DSA-Journey/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/aryan2609progress/DSA-Journey/tree/master/2427-number-of-common-factors) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aryan2609progress/DSA-Journey/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/aryan2609progress/DSA-Journey/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aryan2609progress/DSA-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryan2609progress/DSA-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -678,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/aryan2609progress/DSA-Journey/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aryan2609progress/DSA-Journey/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/3745-maximize-expression-of-three-elements) |
@@ -960,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aryan2609progress/DSA-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aryan2609progress/DSA-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aryan2609progress/DSA-Journey/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aryan2609progress/DSA-Journey/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Queue
 |  |
 | ------- |

@@ -1,16 +1,13 @@
 class Solution {
 public:
     bool canAliceWin(int n) {
-        int remove = 10;
+        int stones = 10;
 
-        while (n >= remove) {
-            n -= remove;
-            remove--;
-
-            if (remove == 0)
-                return true;
+        while (n >= stones) {
+            n -= stones;
+            stones--;
         }
 
-        return remove % 2 == 1;
+        return stones % 2 == 1;
     }
 };

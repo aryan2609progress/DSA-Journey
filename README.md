@@ -968,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/aryan2609progress/DSA-Journey/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/aryan2609progress/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
@@ -976,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/aryan2609progress/DSA-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aryan2609progress/DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aryan2609progress/DSA-Journey/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/aryan2609progress/DSA-Journey/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/aryan2609progress/DSA-Journey/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/0496-next-greater-element-i) |
@@ -1219,4 +1221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/aryan2609progress/DSA-Journey/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/aryan2609progress/DSA-Journey/tree/master/1267-count-servers-that-communicate) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/aryan2609progress/DSA-Journey/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->

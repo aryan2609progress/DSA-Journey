@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aryan2609progress/DSA-Journey/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aryan2609progress/DSA-Journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/aryan2609progress/DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/aryan2609progress/DSA-Journey/tree/master/3745-maximize-expression-of-three-elements) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/aryan2609progress/DSA-Journey/tree/master/1025-divisor-game) |
 | [3524-find-x-value-of-array-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/aryan2609progress/DSA-Journey/tree/master/3693-climbing-stairs-ii) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/aryan2609progress/DSA-Journey/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Memoization
 |  |
 | ------- |
